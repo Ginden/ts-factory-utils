@@ -1,0 +1,29 @@
+{
+  "name": "ts-factory-utils",
+  "version": "1.0.0",
+  "description": "Simple library that makes it easier to generate TypeScript code",
+  "main": ".",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ginden/ts-factory-utils.git"
+  },
+  "keywords": [
+    "typescript",
+    "utils"
+  ],
+  "author": "Michał Wadas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ginden/ts-factory-utils/issues"
+  },
+  "homepage": "https://github.com/Ginden/ts-factory-utils#readme",
+  "peerDependencies": {
+    "typescript": "^5.4.0"
+  },
+  "devDependencies": {
+    "type-fest": "^4.37.0"
+  }
+}
